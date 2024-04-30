@@ -1,0 +1,107 @@
+body{
+    background-color: #263343;
+}
+
+*{
+    box-sizing: border-box;
+ 
+}
+
+header{
+   
+}
+
+header nav{
+
+}
+
+header nav a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header >.banner{
+}
+
+main{
+}
+
+main >.filtro{
+    color: rgb(255, 255, 255);
+}
+
+main > .filtro > table{
+    height: max-content;
+}
+
+main > .contenido{
+
+}
+
+main > .contenido > .destacado{
+
+}
+
+main > .contenido > .destacado > p{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+
+main > .contenido > .destacado >.imagenes{
+
+}
+
+main > .contenido > .destacado >.imagenes >.caratula{
+   
+}
+
+main > .contenido > .destacado >.imagenes >.caratula img{
+
+}
+
+main > .contenido > .destacado > .imagenes .gameplay{
+
+}
+
+main > .contenido > .destacado > .imagenes > .gameplay img{
+  
+}
+
+.filtro table tbody td{
+    padding: 2px;
+    color: rgb(175, 175, 175);
+    font-size: .8rem;
+}
+
+main > .contenido > .listaJuegosVenta{
+
+}
+
+main > .contenido > .listaJuegosVenta .titulo{
+    color: #ffffff;
+    font-weight: bold;
+}
+main > .contenido > .listaJuegosVenta >.juego{
+
+}
+
+main > .contenido > .listaJuegosVenta >.juego img{
+
+}
+
+main > .contenido > .listaJuegosVenta >.juego .informacion{
+ 
+}
+
+
+
+main > .contenido > .listaJuegosVenta >.juego .titulo{
+    color: aliceblue;
+}
+
+main > .contenido > .listaJuegosVenta >.juego .genero{
+    color: rgb(150, 150, 150);
+    font-size: .8rem;
+}
